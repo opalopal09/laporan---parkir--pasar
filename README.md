@@ -5,7 +5,7 @@ Laporan dan aplikasi sistem parkir pasar berbasis web dengan fitur dashboard adm
 ---
 
 ## 🚀 Demo Aplikasi
-👉 [Klik di sini untuk membuka aplikasi](https://parkir-pasar-production.up.railway.app/admin/dashboard)
+👉 [Klik di sini untuk membuka aplikasi](https://parkir-pasar-production.up.railway.app/login)
 
 ## Login Default
 
