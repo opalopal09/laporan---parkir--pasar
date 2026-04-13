@@ -13,7 +13,7 @@ Laporan dan aplikasi sistem parkir pasar berbasis web dengan fitur dashboard adm
 - Username: `admin`
 - Password: `admin123`
 
-**Siswa:**
+**Petugas:**
 - Username: `petugas`
 - Password: `petugas123`
 **owner:**
